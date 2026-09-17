@@ -28,7 +28,7 @@ The analysis explores:
 
 | File | Description |
 |------|-------------|
-| `bikes_sales_analysis.xlsx` | Excel workbook containing the data analysis, pivot tables, charts, and interactive dashboard |
+| `bike_sales_analysis.xlsx` | Excel workbook containing the data analysis, pivot tables, charts, and interactive dashboard |
 
 ## 🎯 Project Objective
 
